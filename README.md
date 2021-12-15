@@ -1,5 +1,3 @@
-# HELLO,WORLD！
+ # HELLO,DOCSIFY!
 
- 
-
- THIS IS MY BLOG! Welcome Ya !
+ Thinks About AI !
