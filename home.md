@@ -1,0 +1,5 @@
+ # HELLO,DOCSIFY!
+
+ Thinks About AI !
+
+ THIS IS MY HOME PAGE
