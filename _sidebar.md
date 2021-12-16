@@ -4,4 +4,4 @@
 
 * [导航](guide)  
    * [JavaScript](01/javascript/)
-   * [MarkDodwn](01/markedown/)
+   * [MarkDodwn](01/markdown/)
