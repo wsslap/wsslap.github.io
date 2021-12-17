@@ -22,3 +22,5 @@ JavaScript 的核心语法其实很精简，只包括了：
 
 著名程序员 Jeff Atwood 甚至提出了一条Atwood定律：
 #### **Any application that can be written in JavaScript will eventually be written in JavaScript.** <!-- {docsify-ignore} -->
+
+## [开始学习](01/javascript/gaishu)<!-- {docsify-ignore} -->

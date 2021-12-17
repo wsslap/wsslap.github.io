@@ -3,5 +3,5 @@
 * [首页](home)
 * [导航](guide)  
 * [JavaScript](01/javascript/readme)
-  * [第一章：JavaScript概述](01/javascript/gaishu)
+  * [第一章：JavaScript概述](01/javascript/javascript-overview)
 * [MarkDodwn](01/markdown/readme)

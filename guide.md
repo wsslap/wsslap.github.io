@@ -1,8 +1,6 @@
-# 这是导航页
+  <big>这是导航页</big>
 
-* [JS介绍](01/javascript/readme)  
-* [JS教程](01/javascript/begin)
+* [为何学习JavaScript](01/javascript/readme)  
 
-* [MK介绍](01/markdown/readme)
-* [MK教程](01/markdown/begin)
+* [为何学习markdown](01/markdown/readme)
   
