@@ -1,8 +1,8 @@
 ![logo](loli.gif)
 
 
-# docsify <small>3.5</small>
-> 一个神奇的文档网站生成器。
+# Learning programming <small>3.5</small>
+> 一个学习编程知识的好地方。
 
 
 [GitHub](https://github.com/wsslap/wsslap.github.io)
