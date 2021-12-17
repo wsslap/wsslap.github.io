@@ -17,5 +17,5 @@ JavaScript 是 web 开发者必学的三种语言之一：
 
 本站未来会添加涵盖 JavaScript 基础和高级教程内容。
 
-### [开始学习](01/javascript/gaishu)<!-- {docsify-ignore} -->
+### [开始学习](01/javascript/javascript-overview)<!-- {docsify-ignore} -->
 

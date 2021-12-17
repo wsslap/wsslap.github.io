@@ -11,4 +11,4 @@ Markdown是一种轻量级标记语言，创始人为约翰·格鲁伯（英语�
 
 Markdown可以快速转化为演讲PPT、Word产品文档甚至是用非常少量的代码完成最小可用原型。
 
-### [开始学习](01/markdown/begin) <!-- {docsify-ignore} -->
+### [开始学习](01/markdown/markdown-overview) <!-- {docsify-ignore} -->
